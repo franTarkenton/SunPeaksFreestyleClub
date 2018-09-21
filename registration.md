@@ -28,8 +28,7 @@ primarily for Timber Tour atheletes.
 
 
 ## Club Registration
-Once you have purchased your bc freestyle club membership you can register
-for the club through the [sun peaks ski school](https://www.sunpeaksresort.com/ski-ride/sports-school-rentals/lessons-camps-programs).
+We are in the process of determining how registration will take place for the year 2019, please check back in the next couple days.
 
 ### Club Costs
 
@@ -52,7 +51,7 @@ Uniforms can be ordered.  If you look on the home page the picture there shows
 the kids in the uniforms we got last year.  This years uniforms are very 
 similar but not an exact match.
 
-Cost for uniforms is **WHAT IS THE COST FOR THIS YEAR 2019** which includes:
+Figuring out costs at the moment, should have them up soon:
  * a jacket
  * pants
  * super fancy rad club embroidery
@@ -60,7 +59,6 @@ Cost for uniforms is **WHAT IS THE COST FOR THIS YEAR 2019** which includes:
 if you are interested in a uniform email **ASAP**: <sunpeaksfreestyleclub@gmail.com>
 
 
-**DO WE WANT TO PUT TOGETHER A FLYER FOR 2019 / LINK BELOW IS FOR LAST YEARS**
-### All this info is also summarized in our [registration flyer](https://drive.google.com/uc?export=&id=0B5l81OIaHZPvRGNZSVlyYVN5Zk5xTTVSdFVHR0Q2ZkpSZHVn)
+
 
 
