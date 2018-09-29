@@ -14,9 +14,6 @@ contact us at <sunpeaksfreestyleclub@gmail.com>.
 
 The following describes our membership requirements and what you need to do in order to join the club.  
 
-## Age Cutoff
-For the 2018-2019 ski season the age cut off is for kids born in **2008 or prior**.
-
 ## BC Freestyle Membership
 Before you can register with our club you will need to register with BC 
 Freestyle which can be done here: 
@@ -31,41 +28,60 @@ primarily for Timber Tour atheletes.
 
 
 ## Club Registration
-We are in the process of determining how registration will take place for the year 2019, please check back in the next couple days.
 
-### Club Costs
+### Coaching Fees
 
-####  Coaching Costs - $800
-This is for 14 Days of coaching, Coaching runs from the weekend of December 1st through to March 30/31st. We offer full days of instruction from (9am to 3pm), with time for breaks and lunch of course.
+**Now:** $800 for 14 days of regular training at Sun Peaks
+
+**Later:** $150 per competition attended (all are optional)
+
+### Schedule
+
+If your child was born in:
+
+ **2005 or earlier** *(will be age 13 or greater as of Dec 31/2018)*, they will train on **Saturdays, 9am-3pm.**
 
 
-#### Competition Costs - $150 per Competition
-There are a total of 4 competitions, they are typically three day events.  Participation in competitions is optional.  Atheletes can attend any 
-number of competitions that they choose.
+**2006/2007/2008** (will be age 10/11/12 as of Dec 31/2018), they will train on **Sundays, 9am-3pm.**
 
-Currently locations and dates of all 4 competions is unknown, will update as the dates for the various events as
-soon as they are published.
-				    
-* [Apex - January 17th to January 20th](https://freestylebc.ski/event/timber-tour-apex-2019/)
-* Whistler?
-* Big White?
-* Silver Star?
 
-## Uniforms
-Uniforms can be ordered at the same time as registration.  If you look on the [home page](http://sunpeaksfreestyleclub.ca) the picture there shows
-the kids in the uniforms we got last year.  This years uniforms are very 
-similar but not an exact match.
-
-Figuring out costs at the moment, should have them up soon:
- * a jacket
- * pants
- * super fancy rad club embroidery
- 
-We will have a link up in the next few day with information on how to register.
- 
+**2009 or later** *(will be age 9 or less as of Dec 31/2018)*, they will train on **Saturdays, 9am-3pm.**
 
 
 
+Training will begin on the weekend of **December 1/2** and end on the weekend of **March 30/31** with no days off over Christmas or March break.  This covers a period of 18 weekends, 14 of which will be regular training at Sun Peaks (covered by the $800 base coaching fee), and 4 of which will be competitions elsewhere (there is a coaching fee of $150 per competition, but there is no obligation to attend any competitions).
 
+Unfortunately, we do not yet know the exact competition schedule, just that there will be 4 events: most likely, these will take place:
+  - [Apex](https://freestylebc.ski/event/timber-tour-apex-2019/)
+  - Whistler
+  - Silver Star
+  - Big White.  
+
+The first of these will be in January and the fourth will be in March or the beginning of April, but that's really all we can say right now.  Details should be finalized by Freestyle BC within the next month or two.
+
+# Uniforms
+
+Uniforms are optional, but if you want to order one, you will need to place your order at the same time as you register (see below).  We can't provide a lot of information about the new uniforms other than to say that they are similar, but not identical, to the ones we've ordered in the past.  
+
+Uniform pricing (which includes both jacket and pants, as well as embroidery) is as follows:
+ - Youth: $195
+ - Men: $325
+ - Women: $375
+(*The price difference between men and women is due to them being from different product lines.*)
+
+### Sizing charts are available on the following pages:
+
+  - **Youth**: <https://www.orage.com/us/sizecharts/kids/>
+  - **Men:** <https://www.orage.com/us/sizecharts/men/>
+  - **Women:** <https://www.orage.com/us/sizecharts/women/>
+
+## Registration and Payment
+
+To register, please fill out the following form for EACH child you want to register:
+<https://goo.gl/forms/qYYzek1aPHgKBBJo2>
+
+After you fill out this form, you will be emailed an invoice, which you must pay by eTransfer within **7 days** of the invoice being sent to you.  Please note that the Sun Peaks ski school is not involved in registration whatsoever this year, so you cannot pay your fees through them.
+
+Registration will be done on a first-come, first-served basis.  We only have a limited number of spaces, and will have to close registration once we fill them.  Also, we must place our uniform order by **October 12th**, so please ensure you register well before then if you would like a uniform!
 
 
