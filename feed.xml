@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sun Peaks Freestyle Club</title>
+    <description>Sun Peaks Freestyle Ski Club Site
+</description>
+    <link>https://sunpeaksfreestyleclub.ca//</link>
+    <atom:link href="https://sunpeaksfreestyleclub.ca//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Oct 2018 11:19:39 -0700</pubDate>
+    <lastBuildDate>Sun, 14 Oct 2018 11:19:39 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Apex 2017</title>
+        <description>&lt;p&gt;Sun Peaks Freestyle Club traveled to Apex Alpine for the Timber tour event hosted 
+During the weekend of January 19 to 22nd. Just about the entire team competed in 
+this event, bringing home three medals.&lt;/p&gt;
+
+&lt;p&gt;More info at the sunpeaks news:
+&lt;a href=&quot;http://sunpeaksnews.com/three-medals-for-freestyle-club-in-apex-21722.htm&quot;&gt;Link to full story&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Jan 2017 16:00:00 -0800</pubDate>
+        <link>https://sunpeaksfreestyleclub.ca//competitions/2017/01/22/ApexEvent.html</link>
+        <guid isPermaLink="true">https://sunpeaksfreestyleclub.ca//competitions/2017/01/22/ApexEvent.html</guid>
+        
+        
+        <category>Competitions</category>
+        
+      </item>
+    
+  </channel>
+</rss>
