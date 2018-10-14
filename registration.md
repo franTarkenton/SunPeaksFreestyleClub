@@ -52,10 +52,10 @@ If your child was born in:
 Training will begin on the weekend of **December 1/2** and end on the weekend of **March 30/31** with no days off over Christmas or March break.  This covers a period of 18 weekends, 14 of which will be regular training at Sun Peaks (covered by the $800 base coaching fee), and 4 of which will be competitions elsewhere (there is a coaching fee of $150 per competition, but there is no obligation to attend any competitions).
 
 Unfortunately, we do not yet know the exact competition schedule, just that there will be 4 events: most likely, these will take place:
-  - [Apex](https://freestylebc.ski/event/timber-tour-apex-2019/)
-  - Whistler
-  - Silver Star
-  - Big White.  
+  - [Apex: Jan 17-20](https://freestylebc.ski/event/timber-tour-apex-2019/)
+  - [Mt. Washington: Feb 8-10](https://freestylebc.ski/event/timber-tour-mt-washington-2/)
+  - [Big White: Mar 16-18](https://freestylebc.ski/event/big-white-slopestyle-2019/)
+  - [Silver Star: Mar 29-31](https://freestylebc.ski/event/timber-tour-silver-star/)
 
 The first of these will be in January and the fourth will be in March or the beginning of April, but that's really all we can say right now.  Details should be finalized by Freestyle BC within the next month or two.
 
